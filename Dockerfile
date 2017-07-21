@@ -22,7 +22,7 @@ RUN apt-get update && \
     libtesseract-dev libleptonica-dev tesseract-ocr-eng build-essential pkg-config unzip git cmake gcovr yasm \
     libprotobuf-dev libleveldb-dev libsnappy-dev libeigen3-dev \
     libhdf5-serial-dev protobuf-compiler libboost-all-dev \
-    libgflags-dev libgoogle-glog-dev liblmdb-dev libatlas-base-dev && \
+    libgflags-dev libgoogle-glog-dev liblmdb-dev libatlas-base-dev \
     libprotobuf-dev libleveldb-dev libsnappy-dev \
     libhdf5-serial-dev protobuf-compiler libboost-all-dev \
     libgflags-dev libgoogle-glog-dev liblmdb-dev libatlas-base-dev && \
